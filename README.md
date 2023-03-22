@@ -145,8 +145,6 @@
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
-
 
 ------
 Credit: [Elanza-48](https://github.com/Elanza-48)
